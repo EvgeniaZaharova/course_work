@@ -4,5 +4,17 @@
 }
 
 body {
-	background-color: #605F7A;
+	background-color: #abcdef;
+}
+
+#block {
+	background-color: #ffffff;
+}
+
+img {
+	margin:  0px 0px 10px 0px;
+}
+
+div {
+	overflow:hidden;
 }
